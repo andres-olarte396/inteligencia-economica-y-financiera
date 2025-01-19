@@ -1,0 +1,41 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración del editor de texto
+*.log
+*.swp
+*.swo
+*.tmp
+.idea/
+.vscode/
+*.code-workspace
+
+# Archivos generados por herramientas
+_site/
+_output/
+*.html
+*.pdf
+*.epub
+*.mobi
+*.docx
+
+# Archivos de respaldo y temporales
+*~
+*.bak
+*.old
+
+# Node.js (si usas alguna herramienta como un generador estático)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos relacionados con compilación
+dist/
+build/
+
+# Otros archivos temporales
+*.cache
+*.lock
+*.tar
+*.zip
