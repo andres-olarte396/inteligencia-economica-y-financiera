@@ -11,11 +11,11 @@
 
 ## 2. [Gestión del dinero](chapters/02-gestion-del-dinero.md)
 
-- Conceptos básicos: ingresos, gastos y flujo de efectivo.
-- El ciclo del dinero: cómo fluye en tu vida.
-- Herramientas para gestionar el dinero: presupuestos, aplicaciones, hojas de cálculo.
-- Diferenciar entre necesidades y deseos.
-- Cómo evitar el endeudamiento innecesario.
+- [Conceptos básicos: ingresos, gastos y flujo de efectivo.](./chapters/02-gestion-del-dinero/01-conceptos-basicos.md)
+- [El ciclo del dinero: cómo fluye en tu vida.](./chapters/02-gestion-del-dinero/02-ciclo-del-dinero.md)
+- [Herramientas para gestionar el dinero: presupuestos, aplicaciones, hojas de cálculo.](./chapters/02-gestion-del-dinero/03-herramientas-para-gestionar-el-dinero.md)
+- [Diferenciar entre necesidades y deseos.](./chapters/02-gestion-del-dinero/04-necesidades-y-deseos.md)
+- [Cómo evitar el endeudamiento innecesario.](./chapters/02-gestion-del-dinero/05-evitar-endeudamiento.md)
 
 ---
 
