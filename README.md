@@ -40,6 +40,8 @@ El libro está estructurado en los siguientes capítulos:
 6. **Educación financiera**: Recursos y consejos para seguir aprendiendo sobre finanzas.  
 7. **Pensamiento a largo plazo**: Cómo construir un futuro financiero sólido y sostenible.  
 
+En el apartado [Menú](./SUMMARY.md) encontraras cada uno de los capítulos.
+
 ---
 
 ## Cómo contribuir

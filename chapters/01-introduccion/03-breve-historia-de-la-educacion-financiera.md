@@ -67,10 +67,4 @@ En las últimas décadas, ha crecido la conciencia sobre la importancia de la ed
 
 ---
 
-## **Conclusión**
-
-La historia de la inteligencia financiera es un reflejo de la evolución de la humanidad y su relación con el dinero. Desde el trueque hasta las criptomonedas, las personas han desarrollado habilidades y conocimientos para gestionar sus recursos de manera efectiva. Hoy, la inteligencia financiera es más importante que nunca, ya que vivimos en un mundo complejo y globalizado donde las decisiones financieras tienen un impacto profundo en nuestra calidad de vida. En tu libro, puedes destacar cómo estos hitos históricos han moldeado la forma en que entendemos y manejamos el dinero hoy en día.
-
----
-
 ... [01. Introducción](../01-introduccion.md) ... [Menu principal](../../SUMMARY.md)

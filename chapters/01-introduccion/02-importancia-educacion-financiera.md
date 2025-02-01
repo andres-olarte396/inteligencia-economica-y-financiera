@@ -68,10 +68,4 @@ La educación financiera no solo beneficia a las personas individualmente, sino 
 
 ---
 
-## **Conclusión**
-
-La educación financiera es un pilar fundamental para una vida personal y profesional exitosa. Te empodera para tomar el control de tu dinero, reducir el estrés, alcanzar tus metas y prepararte para el futuro. Además, tiene un impacto positivo en la sociedad al promover la estabilidad económica y reducir la desigualdad. En tu libro, puedes enfatizar cómo la educación financiera no es un lujo, sino una necesidad en el mundo moderno, y proporcionar herramientas prácticas para que los lectores comiencen su viaje hacia la libertad financiera.
-
----
-
 ... [01. Introducción](../01-introduccion.md) ... [Menu principal](../../SUMMARY.md)

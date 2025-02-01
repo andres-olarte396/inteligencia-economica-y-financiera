@@ -61,13 +61,4 @@ Ambas tienen educación financiera, pero solo la Persona B demuestra inteligenci
 
 ---
 
-### **Conclusión**
-
-- La **educación financiera** te da las herramientas.
-- La **inteligencia financiera** te permite usarlas para construir una vida financiera sólida.
-
-Ambas son esenciales, pero la inteligencia financiera es lo que marca la diferencia entre saber y hacer. En tu libro, puedes enfatizar que la educación financiera es el punto de partida, pero la inteligencia financiera es el camino hacia la libertad económica.
-
----
-
 Regresar ... [01. Introducción](../01-introduccion.md) ... [Menu principal](../../SUMMARY.md)
