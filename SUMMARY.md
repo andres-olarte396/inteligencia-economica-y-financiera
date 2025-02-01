@@ -2,11 +2,10 @@
 
 ## 1. [Introducción](chapters/01-introduccion.md)
 
-- Definición de inteligencia financiera.
-- Importancia de la inteligencia financiera en la vida personal y profesional.
-- Breve historia de la educación financiera.
-- Mitos comunes sobre el dinero.
-- Cómo la mentalidad afecta las decisiones financieras.
+- [Definición de educación e inteligencia financiera.](./chapters/01-introduccion/01-ducacion-e-inteligencia-financiera.md)
+- [Importancia de la inteligencia financiera en la vida personal y profesional.](./chapters/01-introduccion/02-importancia-educacion-financiera.md)
+- [Breve historia de la inteligencia financiera.](./chapters/01-introduccion/03-breve-historia-de-la-educacion-financiera.md)
+- [Mitos comunes sobre el dinero.](./chapters/01-introduccion/04-mitos-sobre-el-dinero.md)
 
 ---
 
@@ -102,7 +101,7 @@
 
 ---
 
-## Estructura sugerida para cada capítulo:
+## Estructura sugerida para cada capítulo
 
 1. **Introducción**: Explicar el tema y su importancia.
 2. **Conceptos clave**: Definir los términos principales.
