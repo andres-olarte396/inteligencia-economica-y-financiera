@@ -104,3 +104,7 @@ Imagina a Laura, una joven profesional que decide usar una combinación de herra
 - **Hoja de cálculo**: Crea una plantilla en Google Sheets para monitorear sus metas de ahorro a largo plazo.
 
 Al combinar estas herramientas, Laura logra mantener un control total sobre sus finanzas y alcanzar sus metas de manera eficiente.
+
+---
+
+Regresar ... [01. Introducción](../02-gestion-del-dinero.md) ... [Menu principal](../../SUMMARY.md)

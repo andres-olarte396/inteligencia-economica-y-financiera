@@ -25,3 +25,7 @@ La gestión del dinero no es solo una cuestión de números; también implica un
 ## Resumen
 
 En este capítulo, explorarás los fundamentos de la gestión del dinero, desde el seguimiento de tus ingresos y gastos hasta la creación de un presupuesto que se ajuste a tus necesidades y metas. Aprenderás a diferenciar entre lo que realmente necesitas y lo que simplemente deseas, y descubrirás cómo evitar caer en deudas que puedan comprometer tu salud financiera. Con las herramientas y estrategias proporcionadas, estarás en camino de tomar el control de tus finanzas y construir un futuro más seguro y próspero.
+
+---
+
+Regresar ... [Menu principal](../../SUMMARY.md)

@@ -89,6 +89,4 @@ María decide eliminar las suscripciones innecesarias y reducir sus gastos varia
 
 ---
 
-## Conclusión
-
-Comprender los conceptos básicos de ingresos, gastos y flujo de efectivo es el primer paso hacia una gestión financiera efectiva. Estos elementos te permiten tener una visión clara de tu situación económica y tomar decisiones informadas para mejorar tu bienestar financiero. En el siguiente apartado, exploraremos cómo crear un presupuesto que te ayude a optimizar estos conceptos y alcanzar tus metas.
+Regresar ... [01. Introducción](../02-gestion-del-dinero.md) ... [Menu principal](../../SUMMARY.md)

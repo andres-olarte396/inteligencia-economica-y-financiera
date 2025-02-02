@@ -21,12 +21,12 @@
 
 ## 3. [Ahorro e inversión](chapters/03-ahorro-e-inversion.md)
 
-- Diferencias entre ahorrar e invertir.
-- Tipos de ahorro: emergencias, metas a corto y largo plazo.
-- Introducción a los instrumentos de inversión: acciones, bonos, fondos indexados, bienes raíces, criptomonedas, etc.
-- El poder del interés compuesto.
-- Cómo diversificar tus inversiones para reducir riesgos.
-- Inversión en ti mismo: educación y habilidades.
+- [Diferencias entre ahorrar e invertir.](./chapters/03-ahorro-e-inversion/01-ahorrar-e-invertir.md)
+- [Tipos de ahorro: emergencias, metas a corto y largo plazo.](./chapters/03-ahorro-e-inversion/02-metas-corto-plazo-y-largo-plazo.md)
+- [Introducción a los instrumentos de inversión: acciones, bonos, fondos indexados, bienes raíces, criptomonedas, etc.](./chapters/03-ahorro-e-inversion/03-instrumentos-inversion.md)
+- [El poder del interés compuesto.](./chapters/03-ahorro-e-inversion/04-interes-compuesto.md)
+- [Cómo diversificar tus inversiones para reducir riesgos.](./chapters/03-ahorro-e-inversion/05-diversificar-inversiones.md)
+- [Inversión en ti mismo: educación y habilidades.](./chapters/03-ahorro-e-inversion/06-inversion-en-ti-mismo.md)
 
 ---
 

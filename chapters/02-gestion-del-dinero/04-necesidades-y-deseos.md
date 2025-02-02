@@ -112,3 +112,7 @@ Sus deseos incluyen:
 Total de deseos: $350.  
 
 Carlos decide reducir sus gastos en deseos a $250 y destinar los $100 restantes a ahorros. De esta manera, cubre sus necesidades, disfruta de algunos deseos y ahorra para el futuro.
+
+---
+
+Regresar ... [01. Introducción](../02-gestion-del-dinero.md) ... [Menu principal](../../SUMMARY.md)
