@@ -32,21 +32,21 @@
 
 ## 4. [Gestión de deudas](chapters/04-gestion-de-deudas.md)
 
-- Tipos de deudas: buenas vs. malas.
-- Estrategias para salir de deudas: método bola de nieve vs. método avalancha.
-- Cómo negociar con acreedores.
-- El impacto de las deudas en tu salud financiera.
-- Cómo evitar caer en deudas en el futuro.
+- [Tipos de deudas: buenas vs. malas.](./chapters/04-gestion-de-deudas/01-deudas-buenas-y-malas.md)
+- [Estrategias para salir de deudas: método bola de nieve vs. método avalancha.](./chapters/04-gestion-de-deudas/02-salir-de-deudas.md)
+- [Cómo negociar con acreedores.](./chapters/04-gestion-de-deudas/03-negociar-con-acreedores.md)
+- [El impacto de las deudas en tu salud financiera.](./chapters/04-gestion-de-deudas/04-deudas-y-salud-financiera.md)
+- [Cómo evitar caer en deudas en el futuro.](./chapters/04-gestion-de-deudas/05-como-evitar-deudas.md)
 
 ---
 
 ## 5. [Ingresos, Activos, Pasivos](chapters/05-ingresos-activos-y-pasivos.md)
 
-- Definición y ejemplos de ingresos activos y pasivos.
-- Cómo construir activos que generen ingresos pasivos.
-- Diferencias entre activos y pasivos según Robert Kiyosaki.
-- Estrategias para convertir pasivos en activos.
-- La importancia de múltiples fuentes de ingresos.
+- [Definición y ejemplos de ingresos activos y pasivos.](./chapters/05-ingresos-activos-y-pasivos/01-ingresos-activos-y-pasivos.md)
+- [Cómo construir activos que generen ingresos pasivos.](./chapters/05-ingresos-activos-y-pasivos/02-activos-con-ingresos-pasivos.md)
+- [Diferencias entre activos y pasivos según Robert Kiyosaki.](./chapters/05-ingresos-activos-y-pasivos/03-activos-y-pasivos.md)
+- [Estrategias para convertir pasivos en activos.](./chapters/05-ingresos-activos-y-pasivos/04-convertir-pasivos-en-activos.md)
+- [La importancia de múltiples fuentes de ingresos.](./chapters/05-ingresos-activos-y-pasivos/05-multiples-fuentes-de-ingresos.md)
 
 ---
 
