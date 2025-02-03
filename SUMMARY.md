@@ -52,21 +52,21 @@
 
 ## 6. [Planificación financiera](chapters/06-planificacion-financiera.md)
 
-- Cómo establecer metas financieras SMART (específicas, medibles, alcanzables, relevantes y con un tiempo definido).
-- Creación de un plan financiero personalizado.
-- Herramientas para la planificación: presupuestos, proyecciones, simulaciones.
-- Planificación para eventos importantes: compra de casa, educación de los hijos, jubilación.
-- Revisión y ajuste del plan financiero.
+- [Cómo establecer metas financieras SMART (específicas, medibles, alcanzables, relevantes y con un tiempo definido).](./chapters/06-planificacion-financiera//01-metas-financieras-SMART.md)
+- [Creación de un plan financiero personalizado.](./chapters/06-planificacion-financiera/02-creacion-de-plan-financiero.md)
+- [Herramientas para la planificación: presupuestos, proyecciones, simulaciones.](./chapters/06-planificacion-financiera/03-herramientas-para-la-planificacion.md)
+- [Planificación para eventos importantes: compra de casa, educación de los hijos, jubilación.](./chapters/06-planificacion-financiera/04-planificacion-de-eventos-importantes.md)
+- [Revisión y ajuste del plan financiero.](./chapters/06-planificacion-financiera/05-ajuste-plan-financiero.md)
 
 ---
 
 ## 7. [Educación financiera](chapters/07-educacion-financiera.md)
 
-- La importancia de la educación financiera desde temprana edad.
-- Recursos para aprender sobre finanzas: libros, cursos, podcasts, blogs.
-- Cómo enseñar inteligencia financiera a los hijos.
-- Errores comunes por falta de educación financiera.
-- El papel de la tecnología en la educación financiera (fintech, apps, etc.).
+- [La importancia de la educación financiera desde temprana edad.](./chapters/07-educacion-financiera/01-educacion-financiera-desde-temprana-edad.md)
+- [Recursos para aprender sobre finanzas: libros, cursos, podcasts, blogs.](./chapters/07-educacion-financiera/02-recursos-para-aprender-sobre-finanzas.md)
+- [Cómo enseñar inteligencia financiera a los hijos.](./chapters/07-educacion-financiera/03-inteligencia-financiera-a-los-hijos.md)
+- [Errores comunes por falta de educación financiera.](./chapters/07-educacion-financiera/04-errores-por-falta-de-educacion-financiera.md)
+- [El papel de la tecnología en la educación financiera (fintech, apps, etc.).](./chapters/07-educacion-financiera/05-tecnologia-de-la-educacion-financiera.md)
 
 ---
 
