@@ -107,7 +107,3 @@ Imagina a Laura, quien decide implementar los tres tipos de ahorro en su vida fi
 3. **Meta a largo plazo**: Invierte $500 al mes en un fondo indexado durante 20 años para su jubilación.  
 
 De esta manera, Laura cubre sus necesidades inmediatas, cumple sus deseos a corto plazo y construye un futuro financiero sólido.
-
----
-
-Regresar ... [01. Introducción](../03-ahorro-e-inversion.md) ... [Menu principal](../../SUMMARY.md)

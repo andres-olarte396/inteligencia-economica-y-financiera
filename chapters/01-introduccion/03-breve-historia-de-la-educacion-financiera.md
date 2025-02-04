@@ -64,7 +64,3 @@ En las últimas décadas, ha crecido la conciencia sobre la importancia de la ed
 - **Robert Kiyosaki**: Autor de *Padre Rico, Padre Pobre*, popularizó conceptos como la creación de activos y la independencia financiera.
 - **Warren Buffett**: Uno de los inversores más exitosos del mundo, es un ejemplo de cómo la inteligencia financiera puede generar riqueza a largo plazo.
 - **John Bogle**: Fundador de Vanguard y defensor de los fondos indexados, promovió la inversión pasiva y de bajo costo.
-
----
-
-... [01. Introducción](../01-introduccion.md) ... [Menu principal](../../SUMMARY.md)

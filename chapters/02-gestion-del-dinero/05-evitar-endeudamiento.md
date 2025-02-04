@@ -85,7 +85,3 @@ Imagina a Ana, una joven profesional que gana $2,500 al mes. Sus gastos fijos (r
 5. **Presión social**: Decide no gastar en salidas costosas que no están dentro de su presupuesto.  
 
 Gracias a estas estrategias, Ana evita acumular deudas y logra mantener un equilibrio financiero saludable.
-
----
-
-Regresar ... [01. Introducción](../02-gestion-del-dinero.md) ... [Menu principal](../../SUMMARY.md)

@@ -82,7 +82,3 @@ Imagina a Juan, quien tiene $10,000 disponibles. Decide dividir este dinero entr
 2. **Inversión**: Invierte $5,000 en un fondo indexado con un horizonte de 10 años para su jubilación.  
 
 De esta manera, Juan cubre sus necesidades inmediatas con el ahorro y aprovecha el potencial de crecimiento de su dinero a través de la inversión.
-
----
-
-Regresar ... [01. Introducción](../03-ahorro-e-inversion.md) ... [Menu principal](../../SUMMARY.md)

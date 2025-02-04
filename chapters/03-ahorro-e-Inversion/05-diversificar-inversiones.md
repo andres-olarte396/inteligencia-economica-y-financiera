@@ -120,7 +120,3 @@ Los robo-advisors son plataformas automatizadas que crean y gestionan portafolio
 1. **Sobrediversificación**: Invertir en demasiados activos puede diluir tus rendimientos y hacer que sea difícil gestionar tu portafolio.  
 2. **Falta de revisión**: Un portafolio diversificado requiere revisiones periódicas para asegurarse de que sigue alineado con tus objetivos.  
 3. **Ignorar la correlación**: Asegúrate de que los activos en tu portafolio no estén altamente correlacionados, ya que esto reduce la efectividad de la diversificación.  
-
----
-
-Regresar ... [01. Introducción](../03-ahorro-e-inversion.md) ... [Menu principal](../../SUMMARY.md)

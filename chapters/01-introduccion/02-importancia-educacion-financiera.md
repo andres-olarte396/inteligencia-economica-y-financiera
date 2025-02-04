@@ -65,7 +65,3 @@ La educación financiera no solo beneficia a las personas individualmente, sino 
 - **Reducción de la pobreza**: Personas educadas financieramente tienen más herramientas para salir de ciclos de pobreza.
 - **Estabilidad económica**: Una población con buenos hábitos financieros contribuye a una economía más estable.
 - **Menor dependencia del Estado**: Menos personas necesitarán ayuda gubernamental si saben cómo manejar sus finanzas.
-
----
-
-... [01. Introducción](../01-introduccion.md) ... [Menu principal](../../SUMMARY.md)

@@ -115,7 +115,3 @@ Imagina que decides ahorrar $100 al mes en una cuenta que ofrece un interés anu
 $ A = 100 * [(1 + 0.06/12)^{(12*30)} - 1] / (0.06/12) = 100,451 $
 
 Gracias al interés compuesto y a las contribuciones mensuales, habrás acumulado más de $100,000.
-
----
-
-Regresar ... [01. Introducción](../03-ahorro-e-inversion.md) ... [Menu principal](../../SUMMARY.md)

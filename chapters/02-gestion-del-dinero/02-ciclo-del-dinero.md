@@ -90,7 +90,3 @@ Imagina a Juan, un profesional que gana $4,000 al mes. Así es como fluye el din
 6. **Protección**: Contrata un seguro de salud y contribuye a un plan de jubilación.
 
 Al seguir este ciclo, Juan logra mantener un flujo de efectivo positivo, ahorrar para el futuro y construir riqueza a largo plazo.
-
----
-
-Regresar ... [01. Introducción](../02-gestion-del-dinero.md) ... [Menu principal](../../SUMMARY.md)

@@ -91,7 +91,3 @@ Los **mitos comunes sobre el dinero** son creencias populares que, aunque están
 **Realidad**: Aunque algunos conceptos financieros pueden parecer complicados, la mayoría de los principios básicos son simples y accesibles. Con un poco de educación y práctica, cualquiera puede aprender a manejar su dinero de manera efectiva.
 
 **Ejemplo**: Conceptos como el presupuesto, el ahorro y la inversión no requieren un título en finanzas. Con recursos como libros, cursos y aplicaciones, cualquiera puede aprender.
-
----
-
-... [01. Introducción](../01-introduccion.md) ... [Menu principal](./../../SUMMARY.md)

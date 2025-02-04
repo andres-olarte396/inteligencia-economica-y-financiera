@@ -132,7 +132,3 @@ Imagina a Carlos, un profesional en marketing que decide invertir en su desarrol
 4. **Networking**: Se une a un grupo de profesionales de marketing en LinkedIn y asiste a eventos de la industria.  
 
 Gracias a estas inversiones, Carlos no solo mejora su desempeño en su trabajo actual, sino que también se convierte en un candidato más atractivo para futuras oportunidades.
-
----
-
-Regresar ... [01. Introducción](../03-ahorro-e-inversion.md) ... [Menu principal](../../SUMMARY.md)

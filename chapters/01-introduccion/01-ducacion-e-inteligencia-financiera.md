@@ -58,7 +58,3 @@ Imagina a dos personas:
 2. **Persona B**: No solo sabe qué es un presupuesto, sino que lo usa para controlar sus gastos, ahorrar para sus metas y evitar deudas (inteligencia financiera).
 
 Ambas tienen educación financiera, pero solo la Persona B demuestra inteligencia financiera al aplicar lo que sabe.
-
----
-
-Regresar ... [01. Introducción](../01-introduccion.md) ... [Menu principal](../../SUMMARY.md)

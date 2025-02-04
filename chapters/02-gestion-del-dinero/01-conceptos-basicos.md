@@ -86,7 +86,3 @@ Imagina a María, una profesional que gana $3,000 al mes. Sus gastos fijos (rent
 - **Flujo de efectivo**: $3,000 - $2,700 = $300 (positivo)  
 
 María decide eliminar las suscripciones innecesarias y reducir sus gastos variables en $100. Ahora sus gastos totales son $2,400, y su flujo de efectivo aumenta a $600. Este dinero adicional puede destinarse a ahorros o inversiones.
-
----
-
-Regresar ... [01. Introducción](../02-gestion-del-dinero.md) ... [Menu principal](../../SUMMARY.md)

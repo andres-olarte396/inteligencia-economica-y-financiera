@@ -178,7 +178,3 @@ Imagina a Carlos, un inversionista principiante con un horizonte de 10 años par
 - **20% en bienes raíces**: Para generar ingresos pasivos y diversificar su portafolio.  
 
 De esta manera, Carlos equilibra riesgo y rendimiento, adaptándose a sus metas y perfil de inversor.
-
----
-
-Regresar ... [01. Introducción](../03-ahorro-e-inversion.md) ... [Menu principal](../../SUMMARY.md)
