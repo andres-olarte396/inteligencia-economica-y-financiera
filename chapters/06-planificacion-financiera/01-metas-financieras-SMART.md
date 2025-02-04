@@ -1,4 +1,4 @@
-# Cómo establecer metas financieras SMART (específicas, medibles, alcanzables, relevantes y con un tiempo definido)
+# Cómo establecer metas financieras SMART 
 
 ## Introducción
 

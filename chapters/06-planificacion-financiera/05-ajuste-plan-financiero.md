@@ -1,7 +1,5 @@
 # Revisión y ajuste del plan financiero
 
----
-
 ## **Introducción**
 
 Un plan financiero no es un documento estático, sino una **hoja de ruta dinámica** que debe adaptarse a cambios personales, económicos y del mercado. La falta de revisiones periódicas puede llevar a desviaciones críticas: desde metas incumplidas hasta crisis de liquidez. Este apartado enseña a monitorear, evaluar y corregir el plan para mantenerlo alineado con tus objetivos, incluso en escenarios imprevistos.  
