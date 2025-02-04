@@ -44,7 +44,7 @@
 
 - [Definición y ejemplos de ingresos activos y pasivos.](./chapters/05-ingresos-activos-y-pasivos/01-ingresos-activos-y-pasivos.md)
 - [Cómo construir activos que generen ingresos pasivos.](./chapters/05-ingresos-activos-y-pasivos/02-activos-con-ingresos-pasivos.md)
-- [Diferencias entre activos y pasivos según Robert Kiyosaki.](./chapters/05-ingresos-activos-y-pasivos/03-activos-y-pasivos.md)
+- [Diferencias entre activos y pasivos según Robert Kiyosaki.](./chapters/05-ingresos-activos-y-pasivos/03-activos-y-pasivos-segun-kiyosaki.md)
 - [Estrategias para convertir pasivos en activos.](./chapters/05-ingresos-activos-y-pasivos/04-convertir-pasivos-en-activos.md)
 - [La importancia de múltiples fuentes de ingresos.](./chapters/05-ingresos-activos-y-pasivos/05-multiples-fuentes-de-ingresos.md)
 

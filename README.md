@@ -46,15 +46,32 @@ En el apartado [Menú](./SUMMARY.md) encontraras cada uno de los capítulos.
 
 ## Cómo contribuir
 
-Este es un proyecto colaborativo, y tu contribución es bienvenida. Si deseas aportar:
+Este es un proyecto colaborativo, y tu contribución es bienvenida. Para participar, sigue estos pasos:
 
-1. Haz un **fork** del repositorio.  
-2. Crea una rama con tu contribución (`git checkout -b mi-contribucion`).  
-3. Realiza tus cambios y haz un **commit** (`git commit -m 'Añadí un nuevo capítulo sobre...'`).  
-4. Haz un **push** a la rama (`git push origin mi-contribucion`).  
-5. Abre un **Pull Request** y describe tus cambios.  
+1. **Haz un fork** del repositorio.  
+2. **Crea una rama** con tu contribución:
 
-Asegúrate de seguir las pautas de contribución y respetar la licencia del proyecto.  
+   ```sh
+   git checkout -b mi-contribucion
+   ```
+
+3. **Realiza tus cambios y haz un commit** con un mensaje claro:
+
+   ```sh
+   git commit -m "Añadí un nuevo capítulo sobre..."
+   ```
+
+4. **Sube tus cambios** a tu fork:
+
+   ```sh
+   git push origin mi-contribucion
+   ```
+
+5. **Abre un Pull Request** en el repositorio principal y describe tus cambios.  
+
+Este proyecto está escrito en estándar Markdown. Si deseas conocer más sobre Markdown, [visita esta página](https://www.markdownguide.org/getting-started/).  
+
+Asegúrate de seguir las pautas de contribución y respetar la licencia del proyecto. Puedes encontrarlas en los archivos `CONTRIBUTING.md` y `LICENSE`.  
 
 ---
 
