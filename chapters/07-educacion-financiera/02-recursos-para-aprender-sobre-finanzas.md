@@ -27,7 +27,7 @@ El aprendizaje financiero es un viaje continuo que requiere recursos accesibles,
 
 ---
 
-## 2. Cursos Recomendados 
+## 2. Cursos Recomendados
 
 ### Gratuitos
 
@@ -77,14 +77,16 @@ El aprendizaje financiero es un viaje continuo que requiere recursos accesibles,
 
 ## 5. Cómo Elegir el Recurso Correcto
 
-- **Según tu nivel**:  
+- **Según tu nivel**:
+
   - **Principiante**: Libros con narrativa simple (ej: "El Hombre Más Rico de Babilonia") + cursos introductorios.  
   - **Intermedio**: Podcasts técnicos (ej: "Invest Like the Best") + blogs con análisis de mercados.  
   - **Avanzado**: Libros de estrategia (ej: "A Random Walk Down Wall Street") + cursos certificados (CFA/CFP).  
 - **Según tu objetivo**:  
-  - **Salir de deudas**: "The Dave Ramsey Show" + "Debt-Free Forever" (libro de Gail Vaz-Oxlade).  
-  - **Invertir**: Blog "The Motley Fool" + curso "Stock Market Investing" (Udemy).  
-  - **Emprender**: Podcast "How I Built This" (Guy Raz) + libro "The Lean Startup" (Eric Ries).  
+
+  - **Salir de deudas**: "The Dave Ramsey Show" + "Debt-Free Forever" (libro de Gail Vaz-Oxlade).
+  - **Invertir**: Blog "The Motley Fool" + curso "Stock Market Investing" (Udemy).
+  - **Emprender**: Podcast "How I Built This" (Guy Raz) + libro "The Lean Startup" (Eric Ries).
 
 ---
 

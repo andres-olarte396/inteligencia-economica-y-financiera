@@ -72,41 +72,32 @@
 
 ## 8. [Control de gastos y consumo](chapters/08-control-de-gastos-y-consumo.md)
 
-- Técnicas para identificar y reducir gastos innecesarios.
-- El impacto psicológico del consumismo.
-- Cómo evitar compras impulsivas.
-- Uso responsable de tarjetas de crédito.
-- La regla del 50/30/20 para distribuir ingresos.
+- [Técnicas para identificar y reducir gastos innecesarios.](./chapters/08-control-de-gastos-y-consumo/01-detectar-gastos-innecesarios.md)
+- [El impacto psicológico del consumismo.](./chapters/08-control-de-gastos-y-consumo/02-impacto-psicologico-del-consumismo.md)
+- [Cómo evitar compras impulsivas.](./chapters/08-control-de-gastos-y-consumo/03-evitar-compras-impulsivas.md)
+- [Uso responsable de tarjetas de crédito.](./chapters/08-control-de-gastos-y-consumo/04-uso-de-tarjetas-de-credito.md)
+- [La regla del 50/30/20 para distribuir ingresos.](./chapters/08-control-de-gastos-y-consumo/05-regla-50-30-20-para-ingresos.md)
 
 ---
 
 ## 9. [Pensamiento a largo plazo](chapters/09-pensamiento-a-largo-plazo.md)
 
-- La importancia de la paciencia en las finanzas.
-- Cómo planificar para la jubilación.
-- Inversiones a largo plazo vs. corto plazo.
-- El impacto de la inflación en tus ahorros e inversiones.
-- Cómo construir un legado financiero para las futuras generaciones.
+- [La importancia de la paciencia en las finanzas.](./chapters/09-pensamiento-a-largo-plazo/01-paciencia-en-las-finanzas.md)
+- [Cómo planificar para la jubilación.](./chapters/09-pensamiento-a-largo-plazo/02-planificar-para-la-jubilacion.md)
+- [Inversiones a largo plazo vs. corto plazo.](./chapters/09-pensamiento-a-largo-plazo/03-inversiones-largo-y-corto-plazo.md)
+- [El impacto de la inflación en tus ahorros e inversiones.](./chapters/09-pensamiento-a-largo-plazo/04-inflacion-ahorro-e-inversiones.md)
+- [Cómo construir un legado financiero para las futuras generaciones.](./chapters/09-pensamiento-a-largo-plazo/05-legado-financiero.md)
 
 ---
 
-## Temas adicionales que podrías incluir
+## Temas adicionales
 
-- **Impuestos y finanzas personales**: Cómo entender y optimizar tus impuestos.
-- **Seguros**: La importancia de proteger tus activos y tu futuro.
-- **Emprendimiento y finanzas**: Cómo manejar las finanzas si eres emprendedor.
-- **Psicología del dinero**: Cómo las emociones afectan tus decisiones financieras.
-- **Finanzas en pareja**: Cómo manejar el dinero en una relación.
-- **Impacto de la economía global**: Cómo los eventos mundiales afectan tus finanzas personales.
+- **Impuestos y finanzas personales**: [Cómo entender y optimizar tus impuestos.](./chapters/temas-adicionales/01-entender-optimizar-impuestos.md)
+- **Seguros**: [La importancia de proteger tus activos y tu futuro.](./chapters/temas-adicionales/02-importancia-de-proteger-activos-y-el-futuro.md)
+- **Emprendimiento y finanzas**: [Cómo manejar las finanzas si eres emprendedor.](./chapters/temas-adicionales/03-emprendimiento-y-finanzas.md)
+- **Psicología del dinero**: [Cómo las emociones afectan tus decisiones financieras.](./chapters/temas-adicionales/04-psicologia-financiera.md)
+- **Finanzas en pareja**: [Cómo manejar el dinero en una relación.](./chapters/temas-adicionales/05-finanzas-en-pareja.md)
+- **Impacto de la economía global**: [Cómo los eventos mundiales afectan tus finanzas personales.](./chapters/temas-adicionales/06-impacto-economia-global.md)
 
 ---
-
-## Estructura sugerida para cada capítulo
-
-1. **Introducción**: Explicar el tema y su importancia.
-2. **Conceptos clave**: Definir los términos principales.
-3. **Ejemplos prácticos**: Casos reales o hipotéticos.
-4. **Herramientas y estrategias**: Cómo aplicar el conocimiento.
-5. **Consejos y errores comunes**: Qué hacer y qué evitar.
-6. **Resumen y reflexión**: Cerrar con un mensaje clave.
   
