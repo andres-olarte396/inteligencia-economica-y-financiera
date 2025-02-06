@@ -98,6 +98,7 @@
 - **Psicología del dinero**: [Cómo las emociones afectan tus decisiones financieras.](./chapters/temas-adicionales/04-psicologia-financiera.md)
 - **Finanzas en pareja**: [Cómo manejar el dinero en una relación.](./chapters/temas-adicionales/05-finanzas-en-pareja.md)
 - **Impacto de la economía global**: [Cómo los eventos mundiales afectan tus finanzas personales.](./chapters/temas-adicionales/06-impacto-economia-global.md)
+- **Seguridad de mis finanzas**: [Como proteger mis finanzas de las estafas.](/chapters/temas-adicionales/07-proteger-finanzas-de-estafas.md)
 
 ---
   
