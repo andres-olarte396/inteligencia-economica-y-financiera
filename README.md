@@ -32,13 +32,15 @@ Este libro es ideal para:
 
 El libro está estructurado en los siguientes capítulos:
 
-1. **Introducción**: Conceptos básicos y la importancia de la inteligencia financiera.  
-2. **Gestión del dinero**: Cómo administrar tus ingresos y gastos de manera efectiva.  
-3. **Ahorro e inversión**: Estrategias para ahorrar e invertir de forma inteligente.  
-4. **Gestión de deudas**: Cómo manejar y reducir las deudas de manera eficiente.  
-5. **Planificación financiera**: Creación de un plan financiero personalizado para alcanzar tus metas.  
-6. **Educación financiera**: Recursos y consejos para seguir aprendiendo sobre finanzas.  
-7. **Pensamiento a largo plazo**: Cómo construir un futuro financiero sólido y sostenible.  
+1. **Introducción**: Conceptos básicos y la importancia de la inteligencia financiera.
+2. **Gestión del dinero**: Cómo administrar tus ingresos y gastos de manera efectiva.
+3. **Ahorro e inversión**: Estrategias para ahorrar e invertir de forma inteligente.
+4. **Gestión de deudas**: Cómo manejar y reducir las deudas de manera eficiente.
+5. **Ingresos, Activos, Pasivos**: Cómo diferenciar entre Ingresos, Activos y Pasivos.
+6. **Planificación financiera**: Creación de un plan financiero personalizado para alcanzar tus metas.
+7. **Educación financiera**: Recursos y consejos para seguir aprendiendo sobre finanzas.
+8. **Control de gastos y consumo**: Cómo detectar y evitar los gastos innecesarios.
+9. **Pensamiento a largo plazo**: Cómo construir un futuro financiero sólido y sostenible.
 
 En el apartado [Menú](./SUMMARY.md) encontraras cada uno de los capítulos.
 
@@ -88,7 +90,7 @@ Bajo las siguientes condiciones:
 
 - **Atribución**: Debes dar crédito adecuado, proporcionar un enlace a la licencia e indicar si se realizaron cambios.  
 - **No comercial**: No puedes utilizar el material con fines comerciales.  
-- **Compartir igual**: Si remezclas, transformas o construyes sobre el material, debes distribuir tus contribuciones bajo la misma licencia.  
+- **Compartir igual**: Si re-mezclas, transformas o construyes sobre el material, debes distribuir tus contribuciones bajo la misma licencia.  
 
 ---
 
