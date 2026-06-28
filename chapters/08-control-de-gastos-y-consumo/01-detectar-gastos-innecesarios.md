@@ -6,7 +6,7 @@ Los gastos innecesarios son como fugas en un barco: pequeños hoyos que, si no s
 
 ---
 
-## Parte 1: Técnicas para Identificar Gastos Innecesarios
+## Parte 1. Técnicas para Identificar Gastos Innecesarios
 
 ### 1. El Método del "Rastreo Exhaustivo"
 

@@ -30,7 +30,7 @@ La regla del **50/30/20** es un modelo de presupuesto sencillo y flexible que eq
 
 La regla es una **guía**, no una ley. Ajusta los porcentajes según tus prioridades:  
 
-### Escenario 1: Ingresos bajos o costos altos de vivienda
+### Escenario 1. Ingresos bajos o costos altos de vivienda
 
 - **Problema**: El 50% para necesidades no cubre alquiler en ciudades caras.  
 - **Solución**: Reducir "deseos" al 20% y aumentar "necesidades" al 60%.  

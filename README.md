@@ -20,11 +20,11 @@ Este libro busca:
 
 Este libro es ideal para:
 
-- Personas que desean mejorar su relación con el dinero.  
-- Jóvenes que están comenzando su vida financiera.  
-- Familias que buscan planificar su futuro económico.  
-- Emprendedores que necesitan gestionar mejor sus finanzas personales y empresariales.  
-- Cualquier persona interesada en aprender sobre inteligencia financiera de manera práctica y sencilla.  
+- Personas que desean mejorar su relación con el dinero.
+- Jóvenes que están comenzando su vida financiera.
+- Familias que buscan planificar su futuro económico.
+- Emprendedores que necesitan gestionar mejor sus finanzas personales y empresariales.
+- Cualquier persona interesada en aprender sobre inteligencia financiera de manera práctica y sencilla.
 
 ---
 
@@ -50,7 +50,7 @@ En el apartado [Menú](./SUMMARY.md) encontraras cada uno de los capítulos.
 
 Este es un proyecto colaborativo, y tu contribución es bienvenida. Para participar, sigue estos pasos:
 
-1. **Haz un fork** del repositorio.  
+1. **Haz un fork** del repositorio.
 2. **Crea una rama** con tu contribución:
 
    ```sh
@@ -69,44 +69,44 @@ Este es un proyecto colaborativo, y tu contribución es bienvenida. Para partici
    git push origin mi-contribucion
    ```
 
-5. **Abre un Pull Request** en el repositorio principal y describe tus cambios.  
+5. **Abre un Pull Request** en el repositorio principal y describe tus cambios.
 
-Este proyecto está escrito en estándar Markdown. Si deseas conocer más sobre Markdown, [visita esta página](https://www.markdownguide.org/getting-started/).  
+Este proyecto está escrito en estándar Markdown. Si deseas conocer más sobre Markdown, [visita esta página](https://www.markdownguide.org/getting-started/).
 
-Asegúrate de seguir las pautas de contribución y respetar la licencia del proyecto. Puedes encontrarlas en los archivos `CONTRIBUTING.md` y `LICENSE`.  
+Asegúrate de seguir las pautas de contribución y respetar la licencia del proyecto. Puedes encontrarlas en los archivos `CONTRIBUTING.md` y `LICENSE`.
 
 ---
 
 ## Licencia
 
-Este libro está licenciado bajo la [Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+Este libro está licenciado bajo la [Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Esto significa que puedes:  
+Esto significa que puedes:
 
-- **Compartir**: Copiar y redistribuir el material en cualquier medio o formato.  
-- **Adaptar**: Remezclar, transformar y construir sobre el material.  
+- **Compartir**: Copiar y redistribuir el material en cualquier medio o formato.
+- **Adaptar**: Remezclar, transformar y construir sobre el material.
 
-Bajo las siguientes condiciones:  
+Bajo las siguientes condiciones:
 
-- **Atribución**: Debes dar crédito adecuado, proporcionar un enlace a la licencia e indicar si se realizaron cambios.  
-- **No comercial**: No puedes utilizar el material con fines comerciales.  
-- **Compartir igual**: Si re-mezclas, transformas o construyes sobre el material, debes distribuir tus contribuciones bajo la misma licencia.  
+- **Atribución**: Debes dar crédito adecuado, proporcionar un enlace a la licencia e indicar si se realizaron cambios.
+- **No comercial**: No puedes utilizar el material con fines comerciales.
+- **Compartir igual**: Si re-mezclas, transformas o construyes sobre el material, debes distribuir tus contribuciones bajo la misma licencia.
 
 ---
 
 ## Agradecimientos
 
-Agradecemos a todos los colaboradores que han dedicado su tiempo y conocimiento para hacer de este libro una herramienta valiosa para la comunidad. Si deseas unirte a esta lista, ¡no dudes en contribuir!  
+Agradecemos a todos los colaboradores que han dedicado su tiempo y conocimiento para hacer de este libro una herramienta valiosa para la comunidad. Si deseas unirte a esta lista, ¡no dudes en contribuir!
 
 ---
 
 ## Contacto
 
-Si tienes preguntas, sugerencias o comentarios, no dudes en contactarnos a través de:  
+Si tienes preguntas, sugerencias o comentarios, no dudes en contactarnos a través de:
 
 - **Correo electrónico**: [Andres Olarte](mailto:andres.olarte396@gmail.com)
-- **Issues en GitHub**: [Abre un issue en el repositorio](https://github.com/andres-olarte396/mi-libro-inteligencia-financiera/issues)  
+- **Issues en GitHub**: [Abre un issue en el repositorio](https://github.com/andres-olarte396/mi-libro-inteligencia-financiera/issues)
 
 ---
 
-¡Gracias por ser parte de este proyecto! Esperamos que este libro te ayude a alcanzar tus metas financieras y a construir un futuro más próspero.  
+¡Gracias por ser parte de este proyecto! Esperamos que este libro te ayude a alcanzar tus metas financieras y a construir un futuro más próspero.
