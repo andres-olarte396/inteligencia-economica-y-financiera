@@ -1,10 +1,10 @@
-# Capítulo 1: Introducción
+# Capítulo 1. Introducción
 
 ## ¿Qué es la inteligencia financiera?
 
 La inteligencia financiera trasciende el simple acto de ahorrar en una alcancía. Se trata de una habilidad que combina conocimiento, estrategia y disciplina para gestionar de manera efectiva los recursos económicos. Imagina la inteligencia financiera como un proceso estructurado en niveles, cada uno de los cuales representa un paso hacia el dominio de tus finanzas personales.
 
-### **Nivel 1: Dominar el mapa de tu dinero**
+### **Nivel 1. Dominar el mapa de tu dinero**
 
 En este nivel, el objetivo es comprender y controlar el flujo de tus ingresos y gastos. Este es el fundamento de cualquier estrategia financiera sólida.
 

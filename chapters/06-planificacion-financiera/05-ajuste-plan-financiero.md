@@ -87,7 +87,7 @@ Un plan financiero no es un documento estático, sino una **hoja de ruta dinámi
 
 **Objetivo**: Identificar desviaciones y definir acciones correctivas.  
 
-1. **Paso 1: Revisa tus KPIs**  
+1. **Paso 1. Revisa tus KPIs**  
    - Compara tus ahorros actuales vs. proyecciones.  
    - Calcula tu ratio deuda/ingreso.  
 

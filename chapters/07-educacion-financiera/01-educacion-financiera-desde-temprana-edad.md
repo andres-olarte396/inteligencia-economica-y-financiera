@@ -72,7 +72,7 @@ En 3 meses, Luisa no solo compró la bicicleta, sino que aprendió a negociar co
 
 **Objetivo**: Que niños y adolescentes experimenten con ingresos, ahorros y gastos.  
 
-1. **Paso 1: Asignar roles**  
+1. **Paso 1. Asignar roles**  
    - **Niños (6-12 años)**: Reciben $5 semanales por completar tareas (tender la cama, alimentar mascotas).  
    - **Adolescentes (13-18 años)**: Reciben $20 por un "trabajo" real (organizar el garaje, ayudar en un negocio familiar).  
 

@@ -55,7 +55,7 @@ Planificar para la jubilación es como sembrar un árbol: cuanto antes empieces,
 
 ## 3. Pasos prácticos para crear tu plan
 
-### Paso 1: Calcula tus gastos futuros
+### Paso 1. Calcula tus gastos futuros
 
 - Incluye:  
   - Vivienda (¿hipoteca pagada?), salud (seguros, medicamentos), viajes, hobbies.  
